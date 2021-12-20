@@ -12,7 +12,7 @@ c++ -std=c++17 -O2 main.cpp -o main
 ```
 
 ```
-➜ …src/aoc2021/day2 time ./main input.txt                                                                                                                                  git:(master) ✗
+➜ …src/aoc2021/day2 time ./main input.txt
 Part 1: depth: 1017, position: 1906, multiplied: 1938402
 Part 2: depth: 1021972, position: 1906, multiplied: 1947878632
 ./main input.txt  0.00s user 0.00s system 67% cpu 0.006 total
