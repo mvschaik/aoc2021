@@ -17,7 +17,7 @@ c++ -std=c++17 -O2 main.cpp -o main
 ```
 
 ```
-➜ …src/aoc2021/day24 time ./main input.txt                                                                                                                                                  git:(master) ✗
+➜ …src/aoc2021/day24 time ./main input.txt
 Solution part 1: 99299513899971
 Check: 0
 Solution part 2: 93185111127911
