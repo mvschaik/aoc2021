@@ -15,10 +15,10 @@ c++ -std=c++17 -O2 main.cpp -o main
 ./main 2 input.txt
 ```
 
-It will display local minima while searching the solution space
-I didn't wait until part 2 completed, when it stopped progressing
-I just tried to enter the current minimum and it turned out to
-be correct! :-)
+It will display minima while searching the solution space.
+
+I didn't wait until part 2 completed, when it stopped progressing I just
+tried to enter the current minimum and it turned out to be correct! :-)
 
 ```
 ➜ …src/aoc2021/day23 ./main 1 test.txt
